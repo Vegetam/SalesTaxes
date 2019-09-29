@@ -49,7 +49,7 @@ Total: 74.68
 
 # Technology
 
-Java 8 
-Maven
-Junit
-Abstract factory Pattern
+Java 8 <br />
+Maven<br />
+Junit<br />
+Abstract Factory Pattern
