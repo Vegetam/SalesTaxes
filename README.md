@@ -47,3 +47,9 @@ Output 3:<br />
 Sales Taxes: 6.70<br />
 Total: 74.68
 
+# Technology
+
+Java 8 
+Maven
+Junit
+Abstract factory Pattern
